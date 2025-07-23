@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhen Wang"
-description              : "Postdoctoral Fellow" #
+description              : "Postdoctoral Fellow in Computer Science & Engineering (CSE), HKUST" #
 repository               : "zhenwang97/zhenwang97.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhen Wang"
   avatar           : "images/zhenwang.JPG"
-  bio              : "Computer Science & Engineering (CSE), HKUST"
+  bio              : #
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
