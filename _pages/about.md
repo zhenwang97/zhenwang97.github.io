@@ -29,13 +29,13 @@ I am a postdoctoral fellow at the [Department of Computer Science and Engineerin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Event-Customized Image Generation](https://arxiv.org/abs/2410.02483))
+[Event-Customized Image Generation](https://arxiv.org/abs/2410.02483)
 
 **Zhen Wang**, Yilei Jiang, Dong Zheng, Jun Xiao, Long Chen
 
 [**Paper**](https://arxiv.org/pdf/2410.02483)/[**Code**](https://github.com/HKUST-LongGroup/FreeEvent/)
 
-Customize your event (actions, poses, relations, interactions) with one single image!
+- Customize your event (actions, poses, relations, interactions) with one single image!
 </div>
 </div>
 
