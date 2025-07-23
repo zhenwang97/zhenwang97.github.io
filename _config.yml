@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Zhen Wang"
-description              : "Postdoctoral Fellow in Computer Science & Engineering (CSE), HKUST" #
+description              : "Postdoctoral Fellow at Computer Science & Engineering (CSE), HKUST" #
 repository               : "zhenwang97/zhenwang97.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
