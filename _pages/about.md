@@ -28,7 +28,7 @@ I am a postdoctoral fellow at the [Department of Computer Science and Engineerin
 
 (Selected works are shown. Full publication list in Google Scholar)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/2025-FreeEvent.png' alt="sym" width="500" height="300""></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/2025-FreeEvent.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Event-Customized Image Generation](https://arxiv.org/abs/2410.02483)
