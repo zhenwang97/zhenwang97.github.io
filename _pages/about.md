@@ -26,6 +26,8 @@ I am a postdoctoral fellow at the [Department of Computer Science and Engineerin
 
 # 📝 Publications 
 
+(Selected works are shown. Full publication list in Google Scholar)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,6 +52,75 @@ Hongxu Chen, **Zhen Wang**, Runshi Li, Bowei Zhu, Long Chen
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_IterIS_Iterative_Inference-Solving_Alignment_for_LoRA_Merging_CVPR_2025_paper.pdf)/[**Code**](https://github.com/HKUST-LongGroup/IterIS-merging)
 
 - A sample-efficient and broadly applicable LoRA merging method based on an iterative inference-solving framework with enhanced performance.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CLIPDrag: Combining Text-based and Drag-based Instructions for Image Editing](https://proceedings.iclr.cc/paper_files/paper/2025/hash/10162500bd9745ac0d4dc321b726e49e-Abstract-Conference.html)
+
+Ziqi Jiang, **Zhen Wang**, Long Chen
+
+[**Paper**](https://proceedings.iclr.cc/paper_files/paper/2025/file/10162500bd9745ac0d4dc321b726e49e-Paper-Conference.pdf)/[**Code**](https://github.com/HKUST-LongGroup/CLIPDrag)
+
+- Incorporating text signals into drag-based methods for precise and flexible image editing.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning combinatorial prompts for universal controllable image captioning](https://link.springer.com/article/10.1007/s11263-024-02179-4)
+
+**Zhen Wang**, Jun Xiao, Yueting Zhuang, Fei Gao, Jian Shao, Long Chen
+
+[**Paper**](https://link.springer.com/content/pdf/10.1007/s11263-024-02179-4.pdf)
+
+- A lightweight prompt-based framework for controllable image captioning.
+- Effective and efficient for both single and combined controls.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Decap: Towards generalized explicit caption editing via diffusion mechanism](https://link.springer.com/chapter/10.1007/978-3-031-72775-7_21)
+
+**Zhen Wang**, Xinyun Jiang, Jun Xiao, Tao Chen, Long Chen
+
+[**Paper**](https://link.springer.com/content/pdf/10.1007/978-3-031-72775-7.pdf)
+
+- A diffusion-based explicit caption editing framework with strong generalization ability across various editing and generation scenarios.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Freetuner: Any subject in any style with training-free diffusion](https://arxiv.org/abs/2405.14201)
+
+Youcan Xu, **Zhen Wang**, Jun Xiao, Wei Liu, Long Chen
+
+[**Paper**](https://arxiv.org/pdf/2405.14201)
+
+- A flexible and training-free method for compositional personalization.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Explicit image caption editing](https://link.springer.com/chapter/10.1007/978-3-031-20059-5_7)
+
+**Zhen Wang**, Long Chen, Wenbo Ma, Guangxing Han, Yulei Niu, Jian Shao, Jun Xiao
+
+[**Paper**](https://link.springer.com/content/pdf/10.1007/978-3-031-20059-5.pdf)/[**Code**](https://github.com/baaaad/TIger)/[**Benchmark**](https://github.com/baaaad/ECE)
+
+- An interesting new task: explicit caption editing (ECE), and new benchmarks.
+- An effective and efficient ECE model.
 </div>
 </div>
 
