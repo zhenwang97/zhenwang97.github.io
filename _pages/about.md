@@ -28,7 +28,7 @@ I am a postdoctoral fellow at the [Department of Computer Science and Engineerin
 
 (Selected works are shown. Full publication list in Google Scholar)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/2025-FreeEvent.png' alt="sym" width="500" height="300""></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Event-Customized Image Generation](https://arxiv.org/abs/2410.02483)
@@ -42,7 +42,7 @@ I am a postdoctoral fellow at the [Department of Computer Science and Engineerin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/2025-FreeEvent.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [IterIS: Iterative Inference-Solving Alignment for LoRA Merging](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_IterIS_Iterative_Inference-Solving_Alignment_for_LoRA_Merging_CVPR_2025_paper.html)
