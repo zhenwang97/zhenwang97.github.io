@@ -35,9 +35,24 @@ I am a postdoctoral fellow at the [Department of Computer Science and Engineerin
 
 [**Paper**](https://arxiv.org/pdf/2410.02483)/[**Code**](https://github.com/HKUST-LongGroup/FreeEvent/)
 
-- Customize your event (actions, poses, relations, interactions) with one single image!
+- Customize your event (actions, poses, relations and interactions) with only one single image!
+- Training-free, Plug-and-Play and Effective.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[IterIS: Iterative Inference-Solving Alignment for LoRA Merging](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_IterIS_Iterative_Inference-Solving_Alignment_for_LoRA_Merging_CVPR_2025_paper.html)
+
+Hongxu Chen, **Zhen Wang**, Runshi Li, Bowei Zhu, Long Chen
+
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_IterIS_Iterative_Inference-Solving_Alignment_for_LoRA_Merging_CVPR_2025_paper.pdf)/[**Code**](https://github.com/HKUST-LongGroup/IterIS-merging)
+
+- A sample-efficient and broadly applicable LoRA merging method based on an iterative inference-solving framework with enhanced performance.
+</div>
+</div>
+
 
 
 <div style="display: none;">
