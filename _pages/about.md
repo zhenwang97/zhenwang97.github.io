@@ -42,7 +42,7 @@ I am a postdoctoral fellow at the [Department of Computer Science and Engineerin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/2025-FreeEvent.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/2025-IterFuse.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [IterIS: Iterative Inference-Solving Alignment for LoRA Merging](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_IterIS_Iterative_Inference-Solving_Alignment_for_LoRA_Merging_CVPR_2025_paper.html)
@@ -56,7 +56,7 @@ Hongxu Chen, **Zhen Wang**, Runshi Li, Bowei Zhu, Long Chen
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/2025-CLIPDrag.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CLIPDrag: Combining Text-based and Drag-based Instructions for Image Editing](https://proceedings.iclr.cc/paper_files/paper/2025/hash/10162500bd9745ac0d4dc321b726e49e-Abstract-Conference.html)
@@ -70,7 +70,7 @@ Ziqi Jiang, **Zhen Wang**, Long Chen
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/2025-ComPro.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning combinatorial prompts for universal controllable image captioning](https://link.springer.com/article/10.1007/s11263-024-02179-4)
@@ -84,7 +84,7 @@ Ziqi Jiang, **Zhen Wang**, Long Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/2024-DECap.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Decap: Towards generalized explicit caption editing via diffusion mechanism](https://link.springer.com/chapter/10.1007/978-3-031-72775-7_21)
@@ -97,7 +97,7 @@ Ziqi Jiang, **Zhen Wang**, Long Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/2025-FreeTuner.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Freetuner: Any subject in any style with training-free diffusion](https://arxiv.org/abs/2405.14201)
@@ -110,7 +110,7 @@ Youcan Xu, **Zhen Wang**, Jun Xiao, Wei Liu, Long Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/2022-ECE.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Explicit image caption editing](https://link.springer.com/chapter/10.1007/978-3-031-20059-5_7)
