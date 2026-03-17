@@ -28,6 +28,47 @@ I am a postdoctoral fellow at the [Department of Computer Science and Engineerin
 
 (Selected works are shown. Full publication list in Google Scholar)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/2026-FlowMotion.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FlowMotion: Training-Free Flow Guidance for Video Motion Transfer](https://arxiv.org/abs/2603.06289)
+
+**Zhen Wang**, Youcan Xu, Jun Xiao, Long Chen
+
+[**Paper**](https://arxiv.org/abs/2603.06289)/[**Code**](https://github.com/HKUST-LongGroup/FlowMotion)
+
+- Efficient video motion transfer with one single RTX 3090.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/2026-FlowDC.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FlowDC: Flow-Based Decoupling-Decay for Complex Image Editing](https://arxiv.org/abs/2603.06289)
+
+Yilei Jiang, **Zhen Wang**, Yanghao Wang, Jun Yu, Yueting Zhuang, Jun Xiao, Long Chen
+
+[**Paper**](https://arxiv.org/abs/2512.11395)/[**Code**](https://github.com/YileiJJJ/FlowDC)
+
+- Efficient and flexible flow-based complex image editing.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2026</div><img src='images/2025-FreeTuner.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Freetuner: Any subject in any style with training-free diffusion](https://dl.acm.org/doi/pdf/10.1145/3797037)
+
+Youcan Xu, **Zhen Wang**, Kexin Li, Jun Xiao, Long Chen
+
+[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3797037)
+
+- A flexible and training-free method for compositional personalization.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/2025-FreeEvent.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -97,18 +138,6 @@ Ziqi Jiang, **Zhen Wang**, Long Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/2025-FreeTuner.png' alt="sym" width="500" height="300"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Freetuner: Any subject in any style with training-free diffusion](https://arxiv.org/abs/2405.14201)
-
-Youcan Xu, **Zhen Wang**, Jun Xiao, Wei Liu, Long Chen
-
-[**Paper**](https://arxiv.org/pdf/2405.14201)
-
-- A flexible and training-free method for compositional personalization.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/2022-ECE.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
