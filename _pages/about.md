@@ -44,7 +44,7 @@ I am a postdoctoral fellow at the [Department of Computer Science and Engineerin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/2026-FlowDC.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FlowDC: Flow-Based Decoupling-Decay for Complex Image Editing](https://arxiv.org/abs/2603.06289)
+[FlowDC: Flow-Based Decoupling-Decay for Complex Image Editing](https://arxiv.org/abs/2512.11395)
 
 Yilei Jiang, **Zhen Wang**, Yanghao Wang, Jun Yu, Yueting Zhuang, Jun Xiao, Long Chen
 
