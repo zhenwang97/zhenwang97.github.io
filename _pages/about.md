@@ -28,6 +28,32 @@ I am a postdoctoral fellow at the [Department of Computer Science and Engineerin
 
 (Selected works are shown. Full publication list in Google Scholar)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/2026-flowcycle.png' alt="FlowCycle target-aware image editing examples" width="500" style="height: auto;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FlowCycle: Target-aware Image Editing via Cycle-consistent Constraints](https://arxiv.org/abs/2510.20212)
+
+Yanghao Wang, **Zhen Wang**, Long Chen
+
+[**Paper**](https://arxiv.org/pdf/2510.20212)/[**Code**](https://github.com/HKUST-LongGroup/FlowCycle)
+
+- Inversion-free, target-aware image editing with cycle-consistent optimization for faithful edits and strong source preservation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/2026-h-flow.png' alt="h-Flow editing framework and orthogonal projection" width="500" style="height: auto;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[h-Flow: Flexible Flow-based Image Editing via Doob's h-Transform](https://arxiv.org/abs/2607.10800)
+
+Zehui Guo, **Zhen Wang**, Junwei Shu, Yang Li, Changbo Wang, Long Chen
+
+[**Paper**](https://arxiv.org/pdf/2607.10800)
+
+- Training-free image editing via Doob's h-Transform, with flexible control over source preservation and target alignment.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/2026-FlowMotion.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
