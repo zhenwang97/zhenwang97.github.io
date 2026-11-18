@@ -31,11 +31,11 @@ I am a postdoctoral fellow at the [Department of Computer Science and Engineerin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/2026-flowcycle.png' alt="FlowCycle target-aware image editing examples" width="500" style="height: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FlowCycle: Target-aware Image Editing via Cycle-consistent Constraints](https://arxiv.org/abs/2510.20212)
+[FlowCycle: Target-Aware Image Editing via Cycle-Consistent Constraints](https://link.springer.com/chapter/10.1007/978-3-032-37464-6_1)
 
 Yanghao Wang, **Zhen Wang**, Long Chen
 
-[**Paper**](https://arxiv.org/pdf/2510.20212)/[**Code**](https://github.com/HKUST-LongGroup/FlowCycle)
+[**Paper**](https://link.springer.com/content/pdf/10.1007/978-3-032-37464-6_1.pdf)/[**Code**](https://github.com/HKUST-LongGroup/FlowCycle)
 
 - Inversion-free, target-aware image editing with cycle-consistent optimization for faithful edits and strong source preservation.
 </div>
@@ -44,11 +44,11 @@ Yanghao Wang, **Zhen Wang**, Long Chen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/2026-h-flow.png' alt="h-Flow editing framework and orthogonal projection" width="500" style="height: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[h-Flow: Flexible Flow-based Image Editing via Doob's h-Transform](https://arxiv.org/abs/2607.10800)
+[h-Flow: Flexible Flow-Based Image Editing via Doob’s h-Transform](https://link.springer.com/chapter/10.1007/978-3-032-37026-6_30)
 
 Zehui Guo, **Zhen Wang**, Junwei Shu, Yang Li, Changbo Wang, Long Chen
 
-[**Paper**](https://arxiv.org/pdf/2607.10800)
+[**Paper**](https://link.springer.com/content/pdf/10.1007/978-3-032-37026-6_30.pdf)
 
 - Training-free image editing via Doob's h-Transform, with flexible control over source preservation and target alignment.
 </div>
@@ -57,11 +57,11 @@ Zehui Guo, **Zhen Wang**, Junwei Shu, Yang Li, Changbo Wang, Long Chen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/2026-FlowMotion.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FlowMotion: Training-Free Flow Guidance for Video Motion Transfer](https://arxiv.org/abs/2603.06289)
+[FlowMotion: Training-Free Flow Guidance for Video Motion Transfer](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_FlowMotion_Training-Free_Flow_Guidance_for_Video_Motion_Transfer_CVPR_2026_paper.html)
 
 **Zhen Wang**, Youcan Xu, Jun Xiao, Long Chen
 
-[**Paper**](https://arxiv.org/abs/2603.06289)/[**Code**](https://github.com/HKUST-LongGroup/FlowMotion)
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_FlowMotion_Training-Free_Flow_Guidance_for_Video_Motion_Transfer_CVPR_2026_paper.pdf)/[**Code**](https://github.com/HKUST-LongGroup/FlowMotion)
 
 - Efficient video motion transfer with one single RTX 3090.
 </div>
@@ -70,11 +70,11 @@ Zehui Guo, **Zhen Wang**, Junwei Shu, Yang Li, Changbo Wang, Long Chen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Highlight</div><img src='images/2026-FlowDC.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FlowDC: Flow-Based Decoupling-Decay for Complex Image Editing](https://arxiv.org/abs/2512.11395)
+[FlowDC: Flow-Based Decoupling-Decay for Complex Image Editing](https://openaccess.thecvf.com/content/CVPR2026/html/Jiang_FlowDC_Flow-Based_Decoupling-Decay_for_Complex_Image_Editing_CVPR_2026_paper.html)
 
 Yilei Jiang, **Zhen Wang**, Yanghao Wang, Jun Yu, Yueting Zhuang, Jun Xiao, Long Chen
 
-[**Paper**](https://arxiv.org/abs/2512.11395)/[**Code**](https://github.com/YileiJJJ/FlowDC)
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2026/papers/Jiang_FlowDC_Flow-Based_Decoupling-Decay_for_Complex_Image_Editing_CVPR_2026_paper.pdf)/[**Code**](https://github.com/YileiJJJ/FlowDC)
 
 - Efficient and flexible flow-based complex image editing.
 </div>
@@ -84,7 +84,7 @@ Yilei Jiang, **Zhen Wang**, Yanghao Wang, Jun Yu, Yueting Zhuang, Jun Xiao, Long
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2026</div><img src='images/2025-FreeTuner.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Freetuner: Any subject in any style with training-free diffusion](https://dl.acm.org/doi/pdf/10.1145/3797037)
+[FreeTuner: Any Subject in Any Style with Training-free Diffusion](https://dl.acm.org/doi/10.1145/3797037)
 
 Youcan Xu, **Zhen Wang**, Kexin Li, Jun Xiao, Long Chen
 
@@ -98,11 +98,11 @@ Youcan Xu, **Zhen Wang**, Kexin Li, Jun Xiao, Long Chen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/2025-FreeEvent.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Event-Customized Image Generation](https://arxiv.org/abs/2410.02483)
+[Event-Customized Image Generation](https://proceedings.mlr.press/v267/wang25ar.html)
 
 **Zhen Wang**, Yilei Jiang, Dong Zheng, Jun Xiao, Long Chen
 
-[**Paper**](https://arxiv.org/pdf/2410.02483)/[**Code**](https://github.com/HKUST-LongGroup/FreeEvent/)
+[**Paper**](https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25ar/wang25ar.pdf)/[**Code**](https://github.com/HKUST-LongGroup/FreeEvent/)
 
 - Customize your event (actions, poses, relations and interactions) with only one single image!
 - Training-free, Plug-and-Play and Effective.
@@ -140,7 +140,7 @@ Ziqi Jiang, **Zhen Wang**, Long Chen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/2025-ComPro.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning combinatorial prompts for universal controllable image captioning](https://link.springer.com/article/10.1007/s11263-024-02179-4)
+[Learning Combinatorial Prompts for Universal Controllable Image Captioning](https://link.springer.com/article/10.1007/s11263-024-02179-4)
 
 **Zhen Wang**, Jun Xiao, Yueting Zhuang, Fei Gao, Jian Shao, Long Chen
 
@@ -154,11 +154,11 @@ Ziqi Jiang, **Zhen Wang**, Long Chen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/2024-DECap.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Decap: Towards generalized explicit caption editing via diffusion mechanism](https://link.springer.com/chapter/10.1007/978-3-031-72775-7_21)
+[DECap: Towards Generalized Explicit Caption Editing via Diffusion Mechanism](https://link.springer.com/chapter/10.1007/978-3-031-72775-7_21)
 
 **Zhen Wang**, Xinyun Jiang, Jun Xiao, Tao Chen, Long Chen
 
-[**Paper**](https://link.springer.com/content/pdf/10.1007/978-3-031-72775-7.pdf)
+[**Paper**](https://link.springer.com/content/pdf/10.1007/978-3-031-72775-7_21.pdf)
 
 - A diffusion-based explicit caption editing framework with strong generalization ability across various editing and generation scenarios.
 </div>
@@ -168,11 +168,11 @@ Ziqi Jiang, **Zhen Wang**, Long Chen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/2022-ECE.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Explicit image caption editing](https://link.springer.com/chapter/10.1007/978-3-031-20059-5_7)
+[Explicit Image Caption Editing](https://link.springer.com/chapter/10.1007/978-3-031-20059-5_7)
 
 **Zhen Wang**, Long Chen, Wenbo Ma, Guangxing Han, Yulei Niu, Jian Shao, Jun Xiao
 
-[**Paper**](https://link.springer.com/content/pdf/10.1007/978-3-031-20059-5.pdf)/[**Code**](https://github.com/baaaad/TIger)/[**Benchmark**](https://github.com/baaaad/ECE)
+[**Paper**](https://link.springer.com/content/pdf/10.1007/978-3-031-20059-5_7.pdf)/[**Code**](https://github.com/baaaad/TIger)/[**Benchmark**](https://github.com/baaaad/ECE)
 
 - An interesting new task: explicit caption editing (ECE), and new benchmarks.
 - An effective and efficient ECE model.
